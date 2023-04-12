@@ -483,6 +483,7 @@ display: flex;
     outline: none;
 }
 .orange_box_btn{width: 100%;}
+.w_100{width: 100% !important;}
 
 
 @media (min-width:1100px) {
